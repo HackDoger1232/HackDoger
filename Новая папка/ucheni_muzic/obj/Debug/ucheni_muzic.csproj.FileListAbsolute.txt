@@ -1,0 +1,103 @@
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\bin\Debug\ucheni_muzic.exe.config
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\bin\Debug\ucheni_muzic.exe
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\bin\Debug\ucheni_muzic.pdb
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\bin\Debug\Google.Protobuf.dll
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\bin\Debug\MySql.Data.dll
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\bin\Debug\System.Buffers.dll
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\bin\Debug\System.Memory.dll
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\bin\Debug\ZstdSharp.dll
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\bin\Debug\Google.Protobuf.xml
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\bin\Debug\MySql.Data.xml
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\bin\Debug\System.Buffers.xml
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\bin\Debug\System.Memory.xml
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\obj\Debug\ucheni_muzic.csproj.AssemblyReference.cache
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\obj\Debug\ucheni_muzic.Form1.resources
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\obj\Debug\ucheni_muzic.Form2.resources
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\obj\Debug\ucheni_muzic.Form3.resources
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\obj\Debug\ucheni_muzic.Form4.resources
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\obj\Debug\ucheni_muzic.Properties.Resources.resources
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\obj\Debug\ucheni_muzic.csproj.GenerateResource.cache
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\obj\Debug\ucheni_muzic.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\obj\Debug\ucheni_muzic.csproj.CopyComplete
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\obj\Debug\ucheni_muzic.exe
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\obj\Debug\ucheni_muzic.pdb
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\obj\Debug\ucheni_muzic.Form5.resources
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\obj\Debug\ucheni_muzic.Form6.resources
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\obj\Debug\ucheni_muzic.Form7.resources
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\obj\Debug\ucheni_muzic.Form8.resources
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\obj\Debug\ucheni_muzic.Form9.resources
+C:\Users\Ruslan\Documents\Visual Studio 2022\Code Snippets\С++\ucheni_muzic\ucheni_muzic\obj\Debug\ucheni_muzic.Form10.resources
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\bin\Debug\ucheni_muzic.exe.config
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\bin\Debug\ucheni_muzic.exe
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\bin\Debug\ucheni_muzic.pdb
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\bin\Debug\Google.Protobuf.dll
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\bin\Debug\MySql.Data.dll
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\bin\Debug\System.Buffers.dll
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\bin\Debug\System.IO.Pipelines.dll
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\bin\Debug\System.Memory.dll
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\bin\Debug\ZstdSharp.dll
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\bin\Debug\Google.Protobuf.pdb
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\bin\Debug\Google.Protobuf.xml
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\bin\Debug\MySql.Data.xml
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\bin\Debug\System.Buffers.xml
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\bin\Debug\System.IO.Pipelines.xml
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\bin\Debug\System.Memory.xml
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\obj\Debug\ucheni_muzic.csproj.AssemblyReference.cache
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\obj\Debug\ucheni_muzic.Form1.resources
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\obj\Debug\ucheni_muzic.Form10.resources
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\obj\Debug\ucheni_muzic.Form2.resources
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\obj\Debug\ucheni_muzic.Form3.resources
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\obj\Debug\ucheni_muzic.Form4.resources
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\obj\Debug\ucheni_muzic.Form5.resources
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\obj\Debug\ucheni_muzic.Form6.resources
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\obj\Debug\ucheni_muzic.Form7.resources
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\obj\Debug\ucheni_muzic.Form8.resources
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\obj\Debug\ucheni_muzic.Form9.resources
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\obj\Debug\ucheni_muzic.Properties.Resources.resources
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\obj\Debug\ucheni_muzic.csproj.GenerateResource.cache
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\obj\Debug\ucheni_muzic.csproj.CoreCompileInputs.cache
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\obj\Debug\ucheni_m.8CEF965B.Up2Date
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\obj\Debug\ucheni_muzic.exe
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\obj\Debug\ucheni_muzic.pdb
+C:\Users\HackDoger\Downloads\Telegram Desktop\ucheni_muzic\ucheni_muzic\obj\Debug\ucheni_muzic.Form12.resources
